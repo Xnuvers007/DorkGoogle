@@ -2,7 +2,7 @@
 
 Files = pdf , png, mp3, mp4, etc.
 
-words = "powered by copyright 2015" , "powered by blogger", "powered by microsoft" , etc.
+words = "Naruto", "Superman","powered by copyright 2015" , "powered by blogger", "powered by microsoft" , etc.
 
 intitle/title = "dashboard", "contact", "gallery", etc.
 
