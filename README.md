@@ -31,3 +31,6 @@ this tools use python3
 ..usr/bin/python3
 
 https://github.com/Xnuvers007/
+
+download tools ?
+right here = https://anonfiles.com/Zbl3U1h5pe/DorkGoogle_rar
