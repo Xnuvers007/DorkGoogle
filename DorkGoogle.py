@@ -1,3 +1,6 @@
+# https://github.com/Xnuvers007/DorkGoogle
+# usr/bin/python3
+
 import os
 import pyfiglet
 import colorama
