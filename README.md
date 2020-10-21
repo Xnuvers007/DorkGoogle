@@ -34,3 +34,4 @@ https://github.com/Xnuvers007/
 
 download tools ?
 right here = https://anonfiles.com/Zbl3U1h5pe/DorkGoogle_rar
+shortlink = https://tinyurl.com/dorkgoogle
