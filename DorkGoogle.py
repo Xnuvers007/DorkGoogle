@@ -1,19 +1,53 @@
-# https://github.com/Xnuvers007/DorkGoogle
-# usr/bin/python3
+#https://github.com/Xnuvers007/DorkGoogle
+#usr/bin/python3.7
+
+#player XnuversXploitXen v2.8 and v3.7
 
 import os
-import pyfiglet
 import colorama
 from colorama import Fore
 
 os.system("cls||clear")
-img_banner = pyfiglet.figlet_format("Dork Google v2.8", font='poison')
+img_banner = Fore.RED + """                                        
+@@@@@@@    @@@@@@   @@@@@@@   @@@  @@@  
+@@@@@@@@  @@@@@@@@  @@@@@@@@  @@@  @@@  
+@@!  @@@  @@!  @@@  @@!  @@@  @@!  !@@  
+!@!  @!@  !@!  @!@  !@!  @!@  !@!  @!!  
+@!@  !@!  @!@  !@!  @!@!!@!   @!@@!@!   
+!@!  !!!  !@!  !!!  !!@!@!    !!@!!!    
+!!:  !!!  !!:  !!!  !!: :!!   !!: :!!   
+:!:  !:!  :!:  !:!  :!:  !:!  :!:  !:!  
+ :::: ::  ::::: ::  ::   :::   ::  :::  
+:: :  :    : :  :    :   : :   :   :::  
+                                        
+                                                              
+ @@@@@@@@   @@@@@@    @@@@@@    @@@@@@@@  @@@       @@@@@@@@  
+@@@@@@@@@  @@@@@@@@  @@@@@@@@  @@@@@@@@@  @@@       @@@@@@@@  
+!@@        @@!  @@@  @@!  @@@  !@@        @@!       @@!       
+!@!        !@!  @!@  !@!  @!@  !@!        !@!       !@!       
+!@! @!@!@  @!@  !@!  @!@  !@!  !@! @!@!@  @!!       @!!!:!    
+!!! !!@!!  !@!  !!!  !@!  !!!  !!! !!@!!  !!!       !!!!!:    
+:!!   !!:  !!:  !!!  !!:  !!!  :!!   !!:  !!:       !!:       
+:!:   !::  :!:  !:!  :!:  !:!  :!:   !::   :!:      :!:       
+ ::: ::::  ::::: ::  ::::: ::   ::: ::::   :: ::::   :: ::::  
+ :: :: :    : :  :    : :  :    :: :: :   : :: : :  : :: ::   
+                                                              
+                                   
+@@@  @@@   @@@@@@         @@@@@@   
+@@@  @@@  @@@@@@@@       @@@@@@@@  
+@@!  @@@       @@@       @@!  @@@  
+!@!  @!@      @!@        !@!  @!@  
+@!@  !@!     !!@          !@!!@!   
+!@!  !!!    !!:           !!@!!!   
+:!:  !!:   !:!           !!:  !!!  
+ ::!!:!   :!:       :!:  :!:  !:!  
+  ::::    :: :::::  :::  ::::: ::  
+   :      :: : :::  :::   : :  :   
+                                   
 
-a = "Github : https://github.com/Xnuvers007/"
-b = "Coded 4study by : XnuversXploitXen / Z3thT5uN4"
+        Github : https://github.com/Xnuvers007/
+        Coded 4study by : XnuversXploitXen / Z3thT5uN4 """
 
-print (Fore.RED+img_banner)
-print (Fore.CYAN+a+"\n"+b)
 
 banner = Fore.CYAN+"""
         Dork4ry dork creator [DorkGoogle.py]
