@@ -14,6 +14,11 @@ extra parameter = 1 , 2 , 3 , 4 , 5 , etc.
 
 insite/site = go.id , com , id , net , org , etc.
 
+and others u
+
+some new features has been add in this program
+enjoy
+
 tutorial :
 
 choose from 1-6
