@@ -50,6 +50,6 @@ right here = https://mega.nz/file/0qBwDDrY#JZ01C1zs9yiQILE8Ia9kBSoALWQKoPpH_lf8-
 
 shortlink = https://tinyurl.com/DOrkGOoglv47
 
-or ![Alt text](https://github.com/Xnuvers007/DorkGoogle/blob/main/Aplikasi_Application/DorkGoogle_v4.8.exe "Optional title")
+or https://github.com/Xnuvers007/DorkGoogle/raw/main/Aplikasi_Application/DorkGoogle_v4.8.exe
 
 #CodeByMe
