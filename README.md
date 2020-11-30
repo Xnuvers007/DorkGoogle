@@ -45,5 +45,5 @@ this tools use python3
 https://github.com/Xnuvers007/
 
 download tools ?
-right here = https://anonfiles.com/Zbl3U1h5pe/DorkGoogle_rar
-shortlink = https://tinyurl.com/dorkgoogle
+right here = https://mega.nz/file/0qBwDDrY#JZ01C1zs9yiQILE8Ia9kBSoALWQKoPpH_lf8-NQjlDA
+shortlink = https://tinyurl.com/DOrkGOoglv47
