@@ -1,3 +1,27 @@
+# tutorial
+
+android (Termux, laptop Linux OS):
+apt update && apt upgrade
+pkg install python3
+pip install --upgrade pip
+pip install -r requirements.txt
+git clone https://github.com/Xnuvers007/DorkGoogle
+Dorkgoogle.py
+
+Laptop(Windows, Mac) ada 2 cara:
+1. download : https://github.com/Xnuvers007/DorkGoogle/archive/main.zip
+extract
+buka python editor / cmd
+cmd = cari letak dimana kamu taro downloadtannya lalu klik shift+klik kanan
+python editor = ctrl+o , cari file yang bernama Dorkgoogle.py
+
+2. (Langsung Pake):
+download = https://github.com/Xnuvers007/DorkGoogle/raw/main/Aplikasi_Application/DorkGoogle_v4.8.exe
+run (boleh administrator boleh langsung Run)
+tinggal pake...
+
+# -----------------
+
 # DorkGoogle
 
 Files = pdf , png, mp3, mp4, etc.
