@@ -1,12 +1,19 @@
 # tutorial
 
 android (Termux, laptop Linux OS):
+
 apt update && apt upgrade
+
 pkg install python3
+
 pip install --upgrade pip
+
 pip install -r requirements.txt
+
 git clone https://github.com/Xnuvers007/DorkGoogle
+
 Dorkgoogle.py
+
 
 Laptop(Windows, Mac) ada 2 cara:
 1. download : https://github.com/Xnuvers007/DorkGoogle/archive/main.zip
