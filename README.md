@@ -34,7 +34,10 @@ python editor = ctrl+o , cari file yang bernama Dorkgoogle.py
 
 2. (Langsung Pake):
 
+download = https://github.com/Xnuvers007/DorkGoogle/raw/main/Aplikasi_Application/DorkGoogle_v2.8.exe (Versi 2.8)
+
 download = https://github.com/Xnuvers007/DorkGoogle/raw/main/Aplikasi_Application/DorkGoogle_v4.8.exe (versi 4.8)
+
 download = https://github.com/Xnuvers007/DorkGoogle/raw/main/Aplikasi_Application/Dorkgoogle_v8.0.12.4.exe (versi 8.0.12.4)
 
 run (boleh administrator boleh langsung Run)
