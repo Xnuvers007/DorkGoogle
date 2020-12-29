@@ -1,3 +1,8 @@
+# Dork Google
+
+![Alt text](https://github.com/Xnuvers007/DorkGoogle/blob/main/images/Graphics-Vibe-Shield-Badge-Social-Google.ico "Optional title")
+
+
 # tutorial
 
 Android (Termux, laptop Linux OS):
@@ -81,6 +86,7 @@ choose 0  For Exit
 ![Alt text](https://github.com/Xnuvers007/DorkGoogle/blob/main/images/Screenshot_1.png "Optional title")
 
 this tools use python3
+
 ..usr/bin/python3
 
 https://github.com/Xnuvers007/
