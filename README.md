@@ -1,6 +1,6 @@
 # Dork Google
 
-![Alt text](https://github.com/Xnuvers007/DorkGoogle/blob/main/images/Graphics-Vibe-Shield-Badge-Social-Google.ico "Optional title")
+![Alt text](https://github.com/Xnuvers007/DorkGoogle/blob/main/images/Graphics-Vibe-Shield-Badge-Social-Google.ico "Dork Google")
 
 
 # tutorial
@@ -13,9 +13,9 @@ pkg install python3
 
 pip install --upgrade pip
 
-pip install -r requirements.txt
-
 git clone https://github.com/Xnuvers007/DorkGoogle
+
+pip install -r requirements.txt
 
 Dorkgoogle.py
 
