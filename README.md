@@ -68,18 +68,6 @@ and others u
 some new features has been add in this program
 enjoy
 
-tutorial :
-
-choose from 1-6
-
-then choose 8/9
-
-if u use linux choose 9
-
-if u use windows, mac choose 8
-
-choose 0  For Exit
-
 # XnuvesXploitXen / Z3thT5uN4
 
 ![Alt text](https://github.com/Xnuvers007/DorkGoogle/blob/main/images/Screenshot_3.png "Optional title")
