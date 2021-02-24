@@ -1,3 +1,5 @@
+![Size](https://img.shields.io/github/repo-size/Xnuvers007/dorkgoogle?color=blue&label=Size&logo=github)
+
 # Dork Google
 
 ![Alt text](https://github.com/Xnuvers007/DorkGoogle/blob/main/images/Graphics-Vibe-Shield-Badge-Social-Google.ico "Dork Google")
