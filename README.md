@@ -2,7 +2,7 @@
 
 # Dork Google
 
-![Alt text](https://github.com/Xnuvers007/DorkGoogle/blob/main/images/Graphics-Vibe-Shield-Badge-Social-Google.ico "Dork Google")
+![Dork Google](https://github.com/Xnuvers007/DorkGoogle/blob/main/images/Graphics-Vibe-Shield-Badge-Social-Google.ico "Dork Google")
 
 
 # tutorial
